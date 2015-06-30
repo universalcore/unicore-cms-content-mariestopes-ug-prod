@@ -2,30 +2,30 @@
   "subtitle": "", 
   "description": "", 
   "language": "eng_GB", 
-  "title": "Be Safe", 
+  "title": "Pills are tablets that contain one or two hormones", 
   "primary_category": "b29d5294ddea46a5a8f815b32e21eb7b", 
-  "created_at": "2015-06-24T06:07:19.682808+00:00", 
+  "created_at": "2015-06-24T06:07:19+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-06-24T06:07:19.683076+00:00", 
+  "modified_at": "2015-06-30T20:34:51.973174+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
     "177bb24c86054daba0d53eb14b3308ab"
   ], 
   "id": null, 
-  "content": "Pills are tablets that contain one or two hormones and are taken by mouth to prevent unwanted pregnancy. The woman takes one pill a round the same time everyday and the pill stops the release of eggs from the women\u2019s body, so she cannot become pregnant. Pills do not interfere with sex and can protect against certain cancers (cancer of the lining of the uterus, cancer of the ovary) and diseases (pelvic inflammatory disease).Pills help women have regular periods, reduced cramps during periods and improved skin. They need to be taken around the same time every day in order to be effective. Pills may cause minor side effects, like changes in bleeding patterns, headaches, dizzness, nausea, breast tenderness, weight change, or mood changes. OIlls have no effect on babies born to women who use them. Pills are perfectly safe to take continuously for many years. They also do not collect in the stomach. The pill dissolves each day.", 
+  "content": "Pills are tablets that contain one or two hormones and are taken by mouth to prevent unwanted pregnancy. The woman takes one pill a round the same time everyday and the pill stops the release of eggs from the women\u2019s body, so she cannot become pregnant. Pills do not interfere with sex and can protect against certain cancers (cancer of the lining of the uterus, cancer of the ovary) and diseases (pelvic inflammatory disease).Pills help women have regular periods, reduced cramps during periods and improved skin. They need to be taken around the same time every day in order to be effective. Pills may cause minor side effects, like changes in bleeding patterns, headaches, dizzness, nausea, breast tenderness, weight change, or mood changes. OIlls have no effect on babies born to women who use them. Pills are perfectly safe to take continuously for many years. They also do not collect in the stomach. The pill dissolves each day.\r\n\r\n[My Choice][1]\r\n\r\nTake Action!\r\n\r\n\r\n  [1]: http://iogt.qa-hub.unicore.io/page/177bb24c86054daba0d53eb14b3308ab/", 
   "source": null, 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 3, 
   "image_host": "http://qa.thumbor.unicore.io", 
-  "slug": "be-safe", 
+  "slug": "pills-are-tablets", 
   "uuid": "585ab446df5b4c5981a9d09df5e1c13a"
 }
