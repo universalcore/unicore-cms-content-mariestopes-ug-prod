@@ -6,12 +6,12 @@
   "primary_category": "b29d5294ddea46a5a8f815b32e21eb7b", 
   "created_at": "2015-06-15T17:05:42+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-07-08T16:32:51.893372+00:00", 
+  "modified_at": "2015-07-09T12:00:39.629939+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -23,7 +23,7 @@
   "image": null, 
   "published": null, 
   "position": 12, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "i-have-used-pills-three-years", 
   "uuid": "177bb24c86054daba0d53eb14b3308ab"
 }
