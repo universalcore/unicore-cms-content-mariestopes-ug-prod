@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "c2272cee7801471286fc521c9377b6a8", 
+  "language": "eng_GB", 
+  "title": "Who are Marie Stopes?", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.3.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "who-are-marie-stopes", 
+  "source": null, 
+  "position": 1, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}
