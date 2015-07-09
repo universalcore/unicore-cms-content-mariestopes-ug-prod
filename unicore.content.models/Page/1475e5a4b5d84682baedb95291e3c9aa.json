@@ -6,12 +6,12 @@
   "primary_category": "d87c0401003749b184cba394b5145fb2", 
   "created_at": "2015-06-30T21:16:45+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-07-08T09:50:03.928165+00:00", 
+  "modified_at": "2015-07-09T12:00:37.565326+00:00", 
   "_version": {
     "package_version": "1.3.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -23,7 +23,7 @@
   "image": null, 
   "published": null, 
   "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "cancer-disease-where-cells-begin-grow-abnormal-way", 
   "uuid": "1475e5a4b5d84682baedb95291e3c9aa"
 }
